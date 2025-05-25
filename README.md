@@ -69,12 +69,15 @@ BookReview-Platform-MERN-FE/
 
 Follow the steps below to set up the project locally:
 
+## ⚙️ Installation & Setup
+
+Follow these steps to run the frontend locally:
+
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ashwinn-si/BookReview-Platform-MERN-FE.git
-   cd BookReview-Platform-MERN-FE
-   ```
-
+   git clone https://github.com/sadvika05/book-review-platform-frontend.git
+   cd book-review-platform-frontend
+   
 2. **Install project dependencies:**
    ```bash
    npm install
