@@ -8,11 +8,6 @@ A modern and responsive web platform where users can explore, review, and rate t
 
 Build a full-featured Book Review Platform where users can browse books, submit and read reviews, and manage their profiles. Admins can manage book listings and suggestions. The application uses **React.js** for the frontend, **Node.js + Express.js** for the backend, and **MongoDB** for data storage.
 
----
-
-## 🌐 Live Demo
-
-👉 [Visit Live Website](insertlink/)
 
 ---
 
@@ -136,7 +131,3 @@ Input validation and error handling
  Effective UI/UX
 
  Clear documentation
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
